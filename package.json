@@ -67,7 +67,7 @@
     "blob-util": "2.0.2",
     "dayjs": "1.11.13",
     "framer-motion": "11.11.17",
-    "next": "15.0.4-canary.29",
+    "next": "15.0.4-canary.31",
     "openai": "4.73.1",
     "pdf-lib": "1.17.1",
     "pdfkit": "0.15.1",
